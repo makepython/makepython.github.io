@@ -34,9 +34,14 @@ scheduled. The following dates are currently scheduled:
 | 2019-12-05    | TBA                                                               | TBA             |
 | 2019-12-19    | NO MEETING                                                        |                 |
 
+# Documents
+
+- [First meeting ideas](https://docs.google.com/document/d/1BTSCBLgdd0ZDRIh2sWCWsHLe0adeXfWCzUeI5O-z9Ks/edit?usp=sharing) (open to comments)
+- [New joiner questionnaire](https://docs.google.com/document/d/1PP4eCe_0JMMkOEexiezaRcccwhVsVY9DD7lTc2XFBws/edit?usp=sharing) (open to comments)
+
 # Catering
 
-To be determined on first meeting for the best practice on this topic.
+To be determined on first meeting for the best options on this topic.
 
 # Past events
 
