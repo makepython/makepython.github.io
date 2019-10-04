@@ -38,9 +38,8 @@ first-come first-serve basis. The following dates are currently scheduled:
 
 | Date          | Topic                                                             | Speaker         |
 | ------------- | ----------------------------------------------------------------- | --------------- |
-| 2019-10-03    | Metaclasses, decorators, descriptors, generators, coroutines      | TBA             |
 | 2019-10-19    | One-to-one open meeting                                           |                 |
-| 2019-11-07    | TBA                                                               | TBA             |
+| 2019-11-07    | Unicode. Basic design patterns.                                   | TBA             |
 | 2019-11-21    | One-to-one open meeting                                           |                 |
 | 2019-12-05    | TBA                                                               | TBA             |
 | 2019-12-19    | One-to-one open meeting                                           |                 |
@@ -60,6 +59,7 @@ first-come first-serve basis. The following dates are currently scheduled:
 
 | Date          | Topic                                                             | Speaker         |
 | ------------- | ----------------------------------------------------------------- | --------------- |
+| 2019-10-03    | Metaclasses, decorators, descriptors, generators, coroutines      | TBA             |
 | ~~2019-09-19~~ <br/> Postponed to: <br/> **2019-09-20** | One-to-one open meeting                       |                 |
 | 2019-09-05    | Package management in python. How to build packages the right way | Stefano Borini  |
 | 2019-08-01    | Introduction + Defining a working environment with poetry         | Stefano Borini  |
