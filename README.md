@@ -52,6 +52,7 @@ first-come first-serve basis. The following dates are currently scheduled:
 
 - We have a [google groups mailing list](https://groups.google.com/forum/#!forum/makepython). It is by invitation only.
 - A [github repository is available as well](https://github.com/makepython)
+- We have an exercise raspberry pi that can be reached, when connected, at *adv-python.makespace.local* from within the makespace. Users have been set up for you. If you need a user, let me know.
 - Email: run this at your python prompt: ``import codecs; print(codecs.encode("znxrclguba ng tznvy.pbz", "rot-13"))``
 
 # Documents
