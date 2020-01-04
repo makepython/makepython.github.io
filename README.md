@@ -38,12 +38,19 @@ first-come first-serve basis. The following dates are currently scheduled:
 
 | Date          | Topic                                                             | Speaker         |
 | ------------- | ----------------------------------------------------------------- | --------------- |
-| 2019-12-19    | **NO MEETING (Vacation)**                                         |                 |
-| 2020-01-02    | **NO MEETING (Vacation)**                                         | Santa Claus     |
 | 2020-01-16    | One-to-one open meeting                                           |                 |
 | 2020-02-06    | Basic of SQL                                                      | Stefano Borini  |
 | 2020-02-20    | One-to-one open meeting                                           |                 |
 | 2020-03-05    | SQLAlchemy and Alembic                                            | Nishad Sohoni   |
+| 2020-03-19    | One-to-one open meeting                                           |                 |
+| 2020-04-02    | Interfacing hardware: Turbidimeter - 1                            | Stefano Borini  |
+| 2020-04-16    | One-to-one open meeting                                           |                 |
+| 2020-05-07    | UI PyQt programming: basics                                       | Stefano Borini  |
+| 2020-05-21    | One-to-one open meeting                                           |                 |
+| 2020-06-04    | Turbidimeter UI - 1                                               | Stefano Borini  |
+| 2020-06-18    | One-to-one open meeting                                           |                 |
+| 2020-07-02    | Turbidimeter UI - 2                                               | Stefano Borini  |
+| 2020-07-16    | One-to-one open meeting                                           |                 |
 
 # Resources
 
@@ -61,6 +68,8 @@ first-come first-serve basis. The following dates are currently scheduled:
 
 | Date          | Topic                                                             | Speaker         |
 | ------------- | ----------------------------------------------------------------- | --------------- |
+| 2019-12-19    | **NO MEETING (Vacation)**                                         |                 |
+| 2020-01-02    | **NO MEETING (Vacation)**                                         | Santa Claus     |
 | 2019-12-05    | Basics design patterns                                            | Stefano Borini  |
 | 2019-11-07    | Unicode. IEEE 754.                                                | Stefano Borini  |
 | 2019-10-03    | Metaclasses, decorators, descriptors, generators, coroutines      | Stefano Borini,<br/>Nishad Sohoni |
