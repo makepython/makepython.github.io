@@ -28,29 +28,20 @@ on the next morning.
 
 # Calendar
 
-Gatherings happen the **first Thursday of the month** at 19:00. Meetings will last
+Gatherings happen the **third Thursday of the month** at 19:00. Meetings will last
 as long as they need, but expect around one or two hours of tinkering and
 discussion.
 
-On the **third Thursday of the month**, a one-to-one meeting is generally
-available for fixes, questions, code browsing, exchange of ideas, on a
-first-come first-serve basis. The following dates are currently scheduled:
+The following dates are currently scheduled:
 
 | Date          | Topic                                                             | Speaker         |
 | ------------- | ----------------------------------------------------------------- | --------------- |
-| 2020-01-16    | One-to-one open meeting                                           |                 |
-| 2020-02-06    | Basic of SQL                                                      | Stefano Borini  |
-| 2020-02-20    | One-to-one open meeting                                           |                 |
-| 2020-03-05    | SQLAlchemy and Alembic                                            | Nishad Sohoni   |
-| 2020-03-19    | One-to-one open meeting                                           |                 |
-| 2020-04-02    | Interfacing hardware: Turbidimeter - 1                            | Stefano Borini  |
-| 2020-04-16    | One-to-one open meeting                                           |                 |
-| 2020-05-07    | UI PyQt programming: basics                                       | Stefano Borini  |
-| 2020-05-21    | One-to-one open meeting                                           |                 |
-| 2020-06-04    | Turbidimeter UI - 1                                               | Stefano Borini  |
-| 2020-06-18    | One-to-one open meeting                                           |                 |
-| 2020-07-02    | Turbidimeter UI - 2                                               | Stefano Borini  |
-| 2020-07-16    | One-to-one open meeting                                           |                 |
+| 2020-02-20    | Basic of SQL                                                      | Stefano Borini  |
+| 2020-03-19    | SQLAlchemy and Alembic                                            | Nishad Sohoni   |
+| 2020-04-16    | Interfacing hardware: Turbidimeter                                | Stefano Borini  |
+| 2020-05-21    | Turbidimeter CLI                                                  | Stefano Borini  |
+| 2020-06-18    | UI programming basics                                             | Stefano Borini  |
+| 2020-07-16    | Turbidimeter UI                                                   | Stefano Borini  |
 
 # Resources
 
