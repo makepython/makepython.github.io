@@ -28,7 +28,7 @@ on the next morning.
 
 # Calendar
 
-Gatherings happen the **third Thursday of the month** at 19:00. Meetings will last
+Gatherings happen at 19:00 at the indicated dates. Meetings will last
 as long as they need, but expect around one or two hours of tinkering and
 discussion.
 
@@ -36,8 +36,7 @@ The following dates are currently scheduled:
 
 | Date          | Topic                                                             | Speaker         |
 | ------------- | ----------------------------------------------------------------- | --------------- |
-| 2020-02-20    | Basic of SQL                                                      | Stefano Borini  |
-| 2020-03-19    | SQLAlchemy and Alembic                                            | Nishad Sohoni   |
+| 2020-03-26    | SQLAlchemy and Alembic                                            | Nishad Sohoni   |
 | 2020-04-16    | Interfacing hardware: Turbidimeter                                | Stefano Borini  |
 | 2020-05-21    | Turbidimeter CLI                                                  | Stefano Borini  |
 | 2020-06-18    | UI programming basics                                             | Stefano Borini  |
@@ -59,8 +58,9 @@ The following dates are currently scheduled:
 
 | Date          | Topic                                                             | Speaker         |
 | ------------- | ----------------------------------------------------------------- | --------------- |
-| 2019-12-19    | **NO MEETING (Vacation)**                                         |                 |
+| 2020-02-20    | Basic of SQL                                                      | Stefano Borini  |
 | 2020-01-02    | **NO MEETING (Vacation)**                                         | Santa Claus     |
+| 2019-12-19    | **NO MEETING (Vacation)**                                         |                 |
 | 2019-12-05    | Basics design patterns                                            | Stefano Borini  |
 | 2019-11-07    | Unicode. IEEE 754.                                                | Stefano Borini  |
 | 2019-10-03    | Metaclasses, decorators, descriptors, generators, coroutines      | Stefano Borini,<br/>Nishad Sohoni |
