@@ -36,11 +36,12 @@ The following dates are currently scheduled:
 
 | Date          | Topic                                                             | Speaker         |
 | ------------- | ----------------------------------------------------------------- | --------------- |
-| 2020-03-26    | SQLAlchemy and Alembic                                            | Nishad Sohoni   |
-| 2020-04-16    | Interfacing hardware: Turbidimeter                                | Stefano Borini  |
-| 2020-05-21    | Turbidimeter CLI                                                  | Stefano Borini  |
-| 2020-06-18    | UI programming basics                                             | Stefano Borini  |
-| 2020-07-16    | Turbidimeter UI                                                   | Stefano Borini  |
+| 2020-03-26    | **Cancelled**                                                     |                 |
+| 2020-04-16    | SQLAlchemy and Alembic                                            | Nishad Sohoni   |
+| 2020-05-21    | Interfacing hardware: Turbidimeter                                | Stefano Borini  |
+| 2020-06-18    | Turbidimeter CLI                                                  | Stefano Borini  |
+| 2020-07-16    | UI programming basics                                             | Stefano Borini  |
+|      ?        | Turbidimeter UI                                                   | Stefano Borini  |
 
 # Resources
 
