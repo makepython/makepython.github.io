@@ -1,5 +1,7 @@
 # Objective
 
+**Cancelled until further notice due to COVID-19**
+
 The goal is to gather people interested in advanced python concepts that go
 beyond the language.  We want to focus on environment, advanced programming
 techniques, useful libraries, and integration with a larger infrastructure
@@ -32,16 +34,7 @@ Gatherings happen at 19:00 at the indicated dates. Meetings will last
 as long as they need, but expect around one or two hours of tinkering and
 discussion.
 
-The following dates are currently scheduled:
-
-| Date          | Topic                                                             | Speaker         |
-| ------------- | ----------------------------------------------------------------- | --------------- |
-| 2020-03-26    | **Cancelled**                                                     |                 |
-| 2020-04-16    | SQLAlchemy and Alembic                                            | Nishad Sohoni   |
-| 2020-05-21    | Interfacing hardware: Turbidimeter                                | Stefano Borini  |
-| 2020-06-18    | Turbidimeter CLI                                                  | Stefano Borini  |
-| 2020-07-16    | UI programming basics                                             | Stefano Borini  |
-|      ?        | Turbidimeter UI                                                   | Stefano Borini  |
+**Cancelled until further notice due to COVID-19**
 
 # Resources
 
